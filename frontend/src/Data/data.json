@@ -1,0 +1,352 @@
+[
+  {
+    "companyName": "Walmart",
+    "jobTitle": "Store Manager",
+    "location": "Bentonville, AR",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/1280px-Walmart_logo.svg.png",
+    "salary": "$90,000 - $150,000"
+  },
+  {
+    "companyName": "Amazon",
+    "jobTitle": "Senior Product Manager",
+    "location": "Seattle, WA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "salary": "$150,000 - $250,000"
+  },
+  {
+    "companyName": "Apple",
+    "jobTitle": "iOS Software Engineer",
+    "location": "Cupertino, CA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black_and_white.svg",
+    "salary": "$160,000 - $280,000"
+  },
+  {
+    "companyName": "UnitedHealth Group",
+    "jobTitle": "Healthcare Data Analyst",
+    "location": "Minnetonka, MN",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/3/30/UnitedHealth_Group.svg",
+    "salary": "$85,000 - $140,000"
+  },
+  {
+    "companyName": "CVS Health",
+    "jobTitle": "Pharmacist",
+    "location": "Woonsocket, RI",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/CVS_Health_logo.svg",
+    "salary": "$120,000 - $150,000"
+  },
+  {
+    "companyName": "ExxonMobil",
+    "jobTitle": "Petroleum Engineer",
+    "location": "Spring, TX",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/ExxonMobil_logo.svg",
+    "salary": "$100,000 - $180,000"
+  },
+  {
+    "companyName": "Berkshire Hathaway",
+    "jobTitle": "Investment Analyst",
+    "location": "Omaha, NE",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Berkshire_Hathaway_logo.svg",
+    "salary": "$95,000 - $175,000"
+  },
+  {
+    "companyName": "Alphabet",
+    "jobTitle": "Machine Learning Engineer",
+    "location": "Mountain View, CA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+    "salary": "$170,000 - $300,000"
+  },
+  {
+    "companyName": "JPMorgan Chase",
+    "jobTitle": "Software Engineer",
+    "location": "New York, NY",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/JPMorgan_Chase_logo_2009.svg",
+    "salary": "$110,000 - $200,000"
+  },
+  {
+    "companyName": "Microsoft",
+    "jobTitle": "Cloud Engineer",
+    "location": "Redmond, WA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+    "salary": "$140,000 - $260,000"
+  },
+  {
+    "companyName": "Costco Wholesale",
+    "jobTitle": "Merchandising Manager",
+    "location": "Issaquah, WA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Costco_Wholesale_logo.svg",
+    "salary": "$80,000 - $130,000"
+  },
+  {
+    "companyName": "Cigna",
+    "jobTitle": "Actuarial Analyst",
+    "location": "Bloomfield, CT",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cigna_logo.svg",
+    "salary": "$90,000 - $160,000"
+  },
+  {
+    "companyName": "Chevron",
+    "jobTitle": "Chemical Engineer",
+    "location": "Houston, TX",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Chevron_logo.svg",
+    "salary": "$110,000 - $190,000"
+  },
+  {
+    "companyName": "General Motors",
+    "jobTitle": "Automotive Engineer",
+    "location": "Detroit, MI",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/9/90/General_Motors_logo.svg",
+    "salary": "$95,000 - $160,000"
+  },
+  {
+    "companyName": "Ford Motor",
+    "jobTitle": "Mechanical Engineer",
+    "location": "Dearborn, MI",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ford_logo_flat.svg",
+    "salary": "$90,000 - $155,000"
+  },
+  {
+    "companyName": "Bank of America",
+    "jobTitle": "Quantitative Analyst",
+    "location": "Charlotte, NC",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bank_of_America_logos.svg",
+    "salary": "$100,000 - $190,000"
+  },
+  {
+    "companyName": "Citi",
+    "jobTitle": "Data Scientist",
+    "location": "New York, NY",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Citibank.svg",
+    "salary": "$105,000 - $185,000"
+  },
+  {
+    "companyName": "Meta Platforms",
+    "jobTitle": "Front-End Developer",
+    "location": "Menlo Park, CA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg",
+    "salary": "$140,000 - $240,000"
+  },
+  {
+    "companyName": "Home Depot",
+    "jobTitle": "Retail Operations Manager",
+    "location": "Atlanta, GA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/5/53/The_Home_Depot_logo.svg",
+    "salary": "$85,000 - $135,000"
+  },
+  {
+    "companyName": "Walgreens Boots Alliance",
+    "jobTitle": "Supply Chain Analyst",
+    "location": "Deerfield, IL",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Walgreens_Boots_Alliance_logo.svg",
+    "salary": "$75,000 - $120,000"
+  },
+  {
+    "companyName": "Kroger",
+    "jobTitle": "District Manager",
+    "location": "Cincinnati, OH",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/The_Kroger_Co._logo.svg",
+    "salary": "$90,000 - $145,000"
+  },
+  {
+    "companyName": "Verizon",
+    "jobTitle": "Network Engineer",
+    "location": "New York, NY",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Verizon_logo_2015.svg",
+    "salary": "$100,000 - $170,000"
+  },
+  {
+    "companyName": "Wells Fargo",
+    "jobTitle": "Compliance Officer",
+    "location": "San Francisco, CA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Wells_Fargo_logo.svg",
+    "salary": "$85,000 - $140,000"
+  },
+  {
+    "companyName": "Comcast",
+    "jobTitle": "Telecommunications Specialist",
+    "location": "Philadelphia, PA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Comcast_logo.svg",
+    "salary": "$90,000 - $150,000"
+  },
+  {
+    "companyName": "State Farm",
+    "jobTitle": "Insurance Agent",
+    "location": "Bloomington, IL",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/2/22/State_Farm.svg",
+    "salary": "$70,000 - $110,000"
+  },
+  {
+    "companyName": "Tyson Foods",
+    "jobTitle": "Quality Assurance Manager",
+    "location": "Springdale, AR",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Tyson_Foods_logo.svg",
+    "salary": "$85,000 - $140,000"
+  },
+  {
+    "companyName": "General Electric",
+    "jobTitle": "Project Manager",
+    "location": "Boston, MA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/0/07/General_Electric_logo.svg",
+    "salary": "$100,000 - $175,000"
+  },
+  {
+    "companyName": "PepsiCo",
+    "jobTitle": "Marketing Manager",
+    "location": "Purchase, NY",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PepsiCo_logo.svg/1024px-PepsiCo_logo.svg.png",
+    "salary": "$110,000 - $190,000"
+  },
+  {
+    "companyName": "Boeing",
+    "jobTitle": "Aerospace Engineer",
+    "location": "Arlington, VA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Boeing_logo.svg",
+    "salary": "$105,000 - $180,000"
+  },
+  {
+    "companyName": "Intel",
+    "jobTitle": "Hardware Engineer",
+    "location": "Santa Clara, CA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Intel-logo.svg",
+    "salary": "$130,000 - $220,000"
+  },
+  {
+    "companyName": "Procter & Gamble",
+    "jobTitle": "Brand Manager",
+    "location": "Cincinnati, OH",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Procter_%26_Gamble_logo.svg",
+    "salary": "$100,000 - $170,000"
+  },
+  {
+    "companyName": "UPS",
+    "jobTitle": "Logistics Manager",
+    "location": "Atlanta, GA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/UPS_logo.svg",
+    "salary": "$85,000 - $140,000"
+  },
+  {
+    "companyName": "FedEx",
+    "jobTitle": "Operations Supervisor",
+    "location": "Memphis, TN",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/9/91/FedEx_logo.svg",
+    "salary": "$70,000 - $115,000"
+  },
+  {
+    "companyName": "Walt Disney",
+    "jobTitle": "Creative Producer",
+    "location": "Burbank, CA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Walt_Disney_Company_logo.svg",
+    "salary": "$110,000 - $200,000"
+  },
+  {
+    "companyName": "Netflix",
+    "jobTitle": "Software Engineer",
+    "location": "Los Gatos, CA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "salary": "$170,000 - $320,000"
+  },
+  {
+    "companyName": "Coca-Cola",
+    "jobTitle": "Supply Chain Manager",
+    "location": "Atlanta, GA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1024px-Coca-Cola_logo.svg.png",
+    "salary": "$95,000 - $160,000"
+  },
+  {
+    "companyName": "Nike",
+    "jobTitle": "Apparel Designer",
+    "location": "Beaverton, OR",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg",
+    "salary": "$80,000 - $130,000"
+  },
+  {
+    "companyName": "Starbucks",
+    "jobTitle": "Store Development Manager",
+    "location": "Seattle, WA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Starbucks_Coffee_Logo.svg/1024px-Starbucks_Coffee_Logo.svg.png",
+    "salary": "$75,000 - $125,000"
+  },
+  {
+    "companyName": "Pfizer",
+    "jobTitle": "Clinical Research Scientist",
+    "location": "New York, NY",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Pfizer_logo.svg",
+    "salary": "$100,000 - $180,000"
+  },
+  {
+    "companyName": "Caterpillar",
+    "jobTitle": "Manufacturing Engineer",
+    "location": "Deerfield, IL",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Caterpillar_logo.svg",
+    "salary": "$90,000 - $150,000"
+  },
+  {
+    "companyName": "IBM",
+    "jobTitle": "AI/Data Scientist",
+    "location": "Armonk, NY",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
+    "salary": "$120,000 - $210,000"
+  },
+  {
+    "companyName": "Chevron",
+    "jobTitle": "Petroleum Geologist",
+    "location": "San Ramon, CA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Chevron_logo.svg",
+    "salary": "$100,000 - $185,000"
+  },
+  {
+    "companyName": "Goldman Sachs",
+    "jobTitle": "Financial Analyst",
+    "location": "New York, NY",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/The_Goldman_Sachs_Group_logo.svg",
+    "salary": "$110,000 - $200,000"
+  },
+  {
+    "companyName": "Morgan Stanley",
+    "jobTitle": "Investment Banking Associate",
+    "location": "New York, NY",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Morgan_Stanley_logo.svg/1024px-Morgan_Stanley_logo.svg.png",
+    "salary": "$120,000 - $220,000"
+  },
+  {
+    "companyName": "PepsiCo",
+    "jobTitle": "Supply Chain Analyst",
+    "location": "Plano, TX",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PepsiCo_logo.svg/1024px-PepsiCo_logo.svg.png",
+    "salary": "$80,000 - $130,000"
+  },
+  {
+    "companyName": "Honda",
+    "jobTitle": "Automotive Designer",
+    "location": "Marysville, OH",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Honda_logo.svg",
+    "salary": "$90,000 - $160,000"
+  },
+  {
+    "companyName": "Tesla",
+    "jobTitle": "Battery Engineer",
+    "location": "Austin, TX",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png",
+    "salary": "$130,000 - $220,000"
+  },
+  {
+    "companyName": "Johnson & Johnson",
+    "jobTitle": "Product Manager",
+    "location": "New Brunswick, NJ",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/1/12/Johnson_%26_Johnson_logo.svg",
+    "salary": "$110,000 - $190,000"
+  },
+  {
+    "companyName": "Qualcomm",
+    "jobTitle": "Electrical Engineer",
+    "location": "San Diego, CA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Qualcomm_logo.svg",
+    "salary": "$125,000 - $210,000"
+  },
+  {
+    "companyName": "Pfizer",
+    "jobTitle": "Data Scientist",
+    "location": "Cambridge, MA",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Pfizer_logo.svg",
+    "salary": "$120,000 - $200,000"
+  }
+]

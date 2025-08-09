@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 40px;
+  background-color: #1e1e2f; /* New background color */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+  height: 40px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  flex: 1;
+}
+
+.nav-links li {
+  cursor: pointer;
+  font-weight: 500;
+  color: #ffffff; /* Font color */
+  position: relative;
+  transition: color 0.3s ease;
+}
+
+.nav-links li::after {
+  content: "";
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 0%;
+  height: 2px;
+  background-color: #ff6b6b;
+  transition: width 0.3s ease;
+}
+
+.nav-links li:hover {
+  color: #ff6b6b;
+}
+
+.nav-links li:hover::after {
+  width: 100%;
+}
+.right-section {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.notification .bell-icon {
+  font-size: 20px;
+  color: #ffffff;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.notification .bell-icon:hover {
+  transform: scale(1.2);
+  color: #ff6b6b;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.username {
+  color: #ffffff;
+  font-weight: 500;
+}

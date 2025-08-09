@@ -1,0 +1,19 @@
+.testimonials {
+  padding: 60px 40px;
+  background-color: #f9fafc;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.testimonials h2 {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  color: #1e1e2f;
+}
+
+.testimonial-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
